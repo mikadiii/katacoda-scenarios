@@ -1,0 +1,36 @@
+{
+    "title": "JSON in PostgreSQL",
+    "description": "Learn how to work with JSON in PostgreSQL",
+    "details": {
+      "steps": [
+        {
+          "title": "What is JSON?",
+          "text": "step1.md"
+        },
+        {
+          "title": "Native JSON support in PostgreSQL",
+          "text": "step2.md"
+        },
+        {
+          "title": "Entity-Attribute-Value (EAV) model",
+          "text": "step3.md"
+        },
+        {
+          "title": "Other aproaches",
+          "text": "step4.md"
+        }
+      ],
+      "intro": {
+        "text": "intro.md"
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "uilayout": "terminal"
+    },
+    "backend": {
+      "imageid": "postgres:14.2"
+    }
+  }
