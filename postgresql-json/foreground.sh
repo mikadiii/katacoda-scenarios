@@ -1,0 +1,1 @@
+docker run -it --rm  postgres psql -h some-postgres -U postgres

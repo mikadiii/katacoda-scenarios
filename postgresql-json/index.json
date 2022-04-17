@@ -21,7 +21,8 @@
         }
       ],
       "intro": {
-        "text": "intro.md"
+        "text": "intro.md",
+        "code": "foreground.sh"
       },
       "finish": {
         "text": "finish.md"
@@ -31,6 +32,6 @@
       "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "postgres:14.2"
+      "imageid": "ubuntu:2004"
     }
   }
