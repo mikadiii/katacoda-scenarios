@@ -23,8 +23,7 @@ INSERT INTO json_table (jsondata) VALUES
     ('{"name": "Max Mustermann", "alter": 22, "adresse": {"straße": "Musterstraße", "ort": "Musterstadt"}, "lieblingsfarbe": "Grün" }'),
     ('{"name": "Hans Mustermann", "alter": 42, "adresse": {"straße": "Musterweg", "ort": "Musterdorf"} }'),
     ('{"name": "Peter Mustermann", "alter": 32, "adresse": {"straße": "Musterstraße", "ort": "Musterstadt"} }');
-```	
-{{execute}}
+```	{{execute}}
 
 
 
