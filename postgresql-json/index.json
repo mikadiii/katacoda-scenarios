@@ -4,19 +4,19 @@
     "details": {
       "steps": [
         {
-          "title": "What is JSON?",
+          "title": "JavaScript Object Notation (JSON)",
           "text": "step1.md"
         },
         {
-          "title": "Native JSON support in PostgreSQL",
+          "title": "PostgreSQL nativer JSON Datentyp",
           "text": "step2.md"
         },
         {
-          "title": "Entity-Attribute-Value (EAV) model",
+          "title": "Entity-Attribute-Value (EAV) Modell",
           "text": "step3.md"
         },
         {
-          "title": "Other aproaches",
+          "title": "",
           "text": "step4.md"
         }
       ],
