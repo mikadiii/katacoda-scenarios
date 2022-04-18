@@ -8,16 +8,20 @@
           "text": "step1.md"
         },
         {
-          "title": "PostgreSQL nativer JSON Datentyp",
+          "title": "Tabelle mit JSON Datentyp erstellen",
           "text": "step2.md"
         },
         {
-          "title": "Entity-Attribute-Value (EAV) Modell",
+          "title": "JSON Operatoren",
           "text": "step3.md"
         },
         {
-          "title": "",
+          "title": "JSONB Operatoren",
           "text": "step4.md"
+        },
+        {
+          "title": "JSONB Objekte verändern",
+          "text": "step5.md"
         }
       ],
       "intro": {
