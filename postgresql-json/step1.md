@@ -1,5 +1,3 @@
-# JavaScript Object Notation (JSON)
-
 Die JavaScript Objekt Notation (JSON) ist eine einfache und eindeutige Art, um Datenstrukturen in einem Text zu speichern. Sie wurde ursprünglich für den Datenaustausch von Web-Anwendungen entwickelt, wird aber auch in vielen weiteren Anwendungen verwendet.
 
 JSON verwendet die folgenden Datentypen:

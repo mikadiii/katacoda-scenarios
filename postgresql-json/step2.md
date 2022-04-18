@@ -1,5 +1,3 @@
-# PostgreSQL nativer JSON Datentyp
-
 PostgreSQL unterstützt JSON als Datentyp seit der Version 9.2, viele der zugehörigen Funktionen aber erst in der Version 9.3.[^fn1]
 
 
