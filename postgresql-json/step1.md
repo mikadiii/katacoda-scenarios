@@ -6,11 +6,11 @@ JSON verwendet die folgenden Datentypen:
 
 | Typ | Notation | Beschreibung |
 | --- | --- | --- |
-Objekt | { } | Ist ein Key-Value Store, kann leer sein, Einträge mit Komma getrennt|
-Array | [ ] | Ist ein Liste von beliebingen Datentypen, kann leer sein, Elemente mit Komma getrennt |
-String | " " | Ist ein Text |
-Zahl | 1 / 1.0 / 2E0   | Ist eine Zahl, unterstützt Integer, Float und E-Notation |
-Boolean | true / false | Ist ein Wahrheitswert |
+| Objekt | { } | Ist ein Key-Value Store, kann leer sein, Einträge mit Komma getrennt|
+| Array | [ ] | Ist ein Liste von beliebingen Datentypen, kann leer sein, Elemente mit Komma getrennt |
+| String | " " | Ist ein Text |
+| Zahl | 1 / 1.0 / 2E0   | Ist eine Zahl, unterstützt Integer, Float und E-Notation |
+| Boolean | true / false | Ist ein Wahrheitswert |
 
 Ein JSON Objekt mit dem Informationen über eine Person gespeichert werden könnte dann so aussehen:
 
