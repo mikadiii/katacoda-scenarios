@@ -1,6 +1,6 @@
 {
     "title": "JSON in PostgreSQL",
-    "description": "Learn how to work with JSON in PostgreSQL",
+    "description": "Einführung in die Arbeit mit JSON in PostgreSQL",
     "details": {
       "steps": [
         {
